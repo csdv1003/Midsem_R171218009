@@ -1,4 +1,4 @@
 Second file- 1 edit
 edit 2
 edit 3
-
+deleted file recovered with help of reset hard 
