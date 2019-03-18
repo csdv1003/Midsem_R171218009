@@ -14,6 +14,13 @@ switch(choice)
 		break;
 	case '-':
 		cout<<n1-n2;
+		break;
+	case '*':
+		cout<<n1*n2;
+		break;
+	case '/':
+		cout<<n1/n2;
+		break;
 
 }
 
