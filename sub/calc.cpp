@@ -9,10 +9,10 @@ cout<<"Enter operation";
 cin>>choice;
 switch(choice)
 {
-	case '+':
-		cout<<n1+n2;
+	case '+':  
+		cout<<n1+n2;  
 		break;
-	case '-':
+	case '-':   
 		cout<<n1-n2;
 		break;
 	case '*':
